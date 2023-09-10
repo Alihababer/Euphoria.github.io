@@ -15,15 +15,15 @@ Euphoria.github.io
     </head>
     <body>
         <header>
-            <div class="logo"><a href="#"><h1>ShoPperZ</h1></a></div>
+            <div class="logo"><a href="#"><h1>EUPHORIA</h1></a></div>
             <div class="menu">
                 <a href=""><ion-icon name="close" class="close"></ion-icon></a>
                 <ul>
                     <li><h3><a href="#" class="under">HOME</a></h3></li>
                     <li><h3><a href="#" class="under">SHOP</a></h3></li>
                     <li><h3><a href="#" class="under">OUR PRODUCTS</a></h3></li>
-                    <li><h3><a href="#" class="under">CONTACT US</a></h3></li>
-                    <li><h3><a href="#" class="under">ABOUT US</a></h3></li>
+                    <li><h3><a href="#" class="under">CONTACT US: 090078601</a></h3></li>
+                    <li><h3><a href="#" class="under">E-mail: euphoriabyaliha@gmail.com</a></h3></li>
                 </ul>
             </div>
             <div class="search">
@@ -38,10 +38,10 @@ Euphoria.github.io
             </div>
             <div class="heading">
                 <ul>
-                    <ul><a href="#" class="under">Welcome to Chic Charm Boutique- Your Gateway to Timeless Style!</a></ul>
+                    <ul><a href="#" class="under">Welcome to Euphoria- Your Gateway to Timeless Style!</a></ul>
                     <ul><a href="#" class="under">
 
-At Chic Charm Boutique, we believe that clothing is more than just fabric; it's a reflection of your personality,</a></ul>
+At Euphoria, we believe that clothing is more than just fabric; it's a reflection of your personality,</a></ul>
                     <ul><a href="#" class="under">a celebration of your individuality, and a canvas for self-expression. With an unwavering commitment to quality,</a></ul>
                     <ul><a href="#" class="under">creativity, and affordability, we bring you a curated collection of fashion that transcends trends and stands the test of time.</a></ul>
                     <ul><a href="#" class="under">Thanks for Purchasing!</a></ul>
@@ -91,7 +91,11 @@ At Chic Charm Boutique, we believe that clothing is more than just fabric; it's 
                                     alt=""
                                 />
                             </div>
-                            <div class="name">SHOES</div>
+                            <div class="name">SHOES
+Upper: Quality shoes often feature uppers made from premium materials like full-grain leather, suede, canvas, or synthetic materials designed for durability and comfort.
+Lining: A quality shoe will have a comfortable and breathable lining, often made from materials like leather or moisture-wicking fabrics.
+Sole: The sole should be made of sturdy and durable materials, such as rubber, leather, or a combination of both.
+Insole: High-quality shoes often have cushioned insoles for comfort and arch support.</div>
                             <div class="price">$5</div>
                             <div class="info">
                                 Lorem ipsum dolor sit amet consectetur.
@@ -104,7 +108,7 @@ At Chic Charm Boutique, we believe that clothing is more than just fabric; it's 
                                     alt=""
                                 />
                             </div>
-                            <div class="name">MEN's T-SHIRT</div>
+                            <div class="name">Denim Jacket Colour: Blue Size: Large//Medium//Small. Model is 5`8 wears medium size.</div>
                             <div class="price">$6.34</div>
                             <div class="info">Lorem ipsum dolor sit.</div>
                         </div>
@@ -158,7 +162,11 @@ Organic Cotton: Grown without synthetic pesticides or fertilizers, offering a mo
                                     alt=""
                                 />
                             </div>
-                            <div class="name">BLANKETS</div>
+                            <div class="name">Material:
+
+Natural Fibers: High-quality blankets are often made from natural materials like cotton, wool, silk, or bamboo. These materials are breathable, durable, and provide good insulation.
+Synthetic Fibers: Some blankets are made from synthetic materials like polyester or microfiber, which can be soft and affordable but may not be as durable or breathable as natural fibers.
+Th</div>
                             <div class="price">$9.9</div>
                             <div class="info">
                                 Lorem ipsum dolor sit amet consectetur
@@ -187,7 +195,8 @@ Organic Cotton: Grown without synthetic pesticides or fertilizers, offering a mo
                                     alt=""
                                 />
                             </div>
-                            <div class="name">BED</div>
+                            <div class="name">Mattresses can be made of various materials, including memory foam, latex, innerspring, and hybrid combinations. Each material has its characteristics in terms of support and comfort.
+</div>
                             <div class="price">$100</div>
                             <div class="info">
                                 Lorem ipsum dolor sit amet consectetur,
@@ -211,7 +220,11 @@ Organic Cotton: Grown without synthetic pesticides or fertilizers, offering a mo
                                     alt=""
                                 />
                             </div>
-                            <div class="name">BAG</div>
+                            <div class="name">Material:
+
+Natural Fibers: High-quality blankets are often made from natural materials like cotton, wool, silk, or bamboo. These materials are breathable, durable, and provide good insulation.
+Synthetic Fibers: Some blankets are made from synthetic materials like polyester or microfiber, which can be soft and affordable but may not be as durable or breathable as natural fibers.
+Th</div>
                             <div class="price">$36.5</div>
                             <div class="info">
                                 Lorem ipsum dolor sit amet consectetur,
@@ -242,7 +255,7 @@ Organic Cotton: Grown without synthetic pesticides or fertilizers, offering a mo
             </div>
         </section>
         <footer>
-            <div class="footer0"><h1>ShoPperZ</h1></div>
+            <div class="footer0"><h1>EUPHORIA</h1></div>
             <div class="footer1">
                 Connect with us at
                 <div class="social-media">
@@ -287,7 +300,7 @@ Organic Cotton: Grown without synthetic pesticides or fertilizers, offering a mo
             </div>
             <div class="footer3">
                 Copyright ©️
-                <h4>ShoPperZ</h4>
+                <h4>EUPHORIA</h4>
                 2021-2028
             </div>
         </footer>
